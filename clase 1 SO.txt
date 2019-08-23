@@ -1,0 +1,29 @@
+Comandos Linux.
+man
+info
+
+ls
+ls -ltah
+echo "hola mundo" >> texto.txt
+cat texto.txt
+more texto.txt
+less texto.txt
+
+pwd 	///(me dice donde estoy parado).
+history ///(muestra historial de comandos).
+> 	///guarda la ultima version
+>> 	///concatena
+clear 	///limpia la pantala.
+cd 	///change directory
+
+mkdir	///Crea un directorio.
+
+tree	///Muestra directorios y subdirectorios.
+
+sudo		///super usuario sin permisos.
+sudo su		///Super usuario con permisos.
+sudo su - 	///nos posiciona en el root/
+
+login 		//no es recomendado.
+
+chmod 777 	///Cambia tipo de archivo a ejecutable.
